@@ -1,8 +1,11 @@
-<h1 align="center">Hello, I'm <strong>Ariq</strong> 👋</h1>
+<h1 align="center">Hello, I'm <strong>Ariq</strong> <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="30px" alt="hello gif"/></h1>
+
 
 <p align="center">
   <p align="center">
-  <img src="[https://media.giphy.com/media/3o85xIO33l7RlmLR4I/giphy.gif](https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-GRPy8MKag9U1U88hzY)" width="250px" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif" width="250px" alt="coding gif"/>
+    <br>
+    <br>
   <a href="https://www.linkedin.com/in/raden-ariq-resya-alauddine-017807231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -29,6 +32,8 @@ Hi, I’m Raden Ariq ! I'm a passionate **Data Engineer** with a love for buildi
 If you’re passionate about technology, coding, and building great things, you’re in the right place! I’m always open to collaborating on interesting projects or discussing tech trends.
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to chat or collaborate. Let’s code something amazing!
+
+---
 
 ### 🛠️ Technologies & Tools:
 
