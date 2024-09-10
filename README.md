@@ -31,8 +31,8 @@
 Hi, I’m Raden Ariq ! I'm a passionate **Data Engineer** with a love for building amazing things with code and technology. Whether it’s working on **PT. Sumber Rejeki**, or learning new tools like **SQL,R,Phyton**, I’m always up for a challenge.
 
 
-- 🔭 I’m currently working on: **PT.Sumber Rejeki**
-- 🌱 I’m currently learning: **Data Engineer,Data Analyst,Data Mining**
+- 🔭 I’m currently working on: **PT. Sumber Rejeki**
+- 🌱 I’m currently learning: **Data Engineer, Data Analyst, Data Mining**
 - 💬 Ask me about: **Data Engineer**
 - 📫 How to reach me: ariqresya42@gmail.com
 - 🏁 My hobby is racing 
