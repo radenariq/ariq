@@ -1,8 +1,9 @@
 <h1 align="center">Hello, I'm <strong>Ariq</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j5zq8egto5o5GlGbnO/giphy.gif" width="150px" alt="Coding gif"/>
-  <br>
+  <p align="center">
+  <img src="https://media.giphy.com/media/3o85xIO33l7RlmLR4I/giphy.gif" width="250px" alt="coding gif"/>
+  </p>
   <a href="https://www.linkedin.com/in/raden-ariq-resya-alauddine-017807231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -15,12 +16,19 @@
 
 ### 👨‍💻 About Me:
 
+Hi, I’m Raden Ariq ! I'm a passionate **Data Engineer** with a love for building amazing things with code and technology. Whether it’s working on **PT. Sumber Rejeki**, or learning new tools like **SQL,R,Phyton**, I’m always up for a challenge.
+
+
 - 🔭 I’m currently working on: **PT.Sumber Rejeki**
 - 🌱 I’m currently learning: **Data Engineer,Data Analyst,Data Mining**
 - 💬 Ask me about: **Data Engineer**
 - 📫 How to reach me: ariqresya42@gmail.com
 
 ---
+### 🚀 Let's Build the Future Together!
+If you’re passionate about technology, coding, and building great things, you’re in the right place! I’m always open to collaborating on interesting projects or discussing tech trends.
+
+Feel free to explore my repositories and don't hesitate to reach out if you want to chat or collaborate. Let’s code something amazing!
 
 ### 🛠️ Technologies & Tools:
 
@@ -65,3 +73,9 @@
      alt="LinkedIn"></a>
   <a href="mailto:ariqresya42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+---
+
+### ✨ Fun Quote:
+
+*"The only way to do great work is to love what you do."* — Steve Jobs
