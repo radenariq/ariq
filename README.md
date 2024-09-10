@@ -2,14 +2,14 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://media.giphy.com/media/3o85xIO33l7RlmLR4I/giphy.gif" width="250px" alt="coding gif"/>
-  </p>
+  <img src="[https://media.giphy.com/media/3o85xIO33l7RlmLR4I/giphy.gif](https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-GRPy8MKag9U1U88hzY)" width="250px" alt="coding gif"/>
   <a href="https://www.linkedin.com/in/raden-ariq-resya-alauddine-017807231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ariqresya42@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
+  </p>
 </p>
 
 ---
