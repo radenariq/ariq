@@ -64,11 +64,14 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
 
 ---
 
-### 📈 Activity Graph:
+### 📈 Top Languages :
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=radenariq&theme=radical" alt="GitHub Activity Graph">
-</p>
+<div align="center">
+  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radenariq&show_icons=true&theme=tokyonight)
+
+
+</div>
 
 ---
 
