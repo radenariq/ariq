@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br>
-  <a href="https://www.linkedin.com/in/radenariq/">
+  <a href="https://www.linkedin.com/in/raden-ariq-resya-alauddine-017807231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ariqresya42@gmail.com">
@@ -61,6 +61,7 @@
 ### 🤝 Let's Connect:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/radenariq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/raden-ariq-resya-alauddine-017807231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"     
+     alt="LinkedIn"></a>
   <a href="mailto:ariqresya42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
