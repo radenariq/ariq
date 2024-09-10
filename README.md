@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Ariq!</h1>
+<h1 align="center">Hello, I'm <strong>Ariq</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/j5zq8egto5o5GlGbnO/giphy.gif" width="150px" alt="Coding gif"/>
   <br>
   <a href="https://www.linkedin.com/in/raden-ariq-resya-alauddine-017807231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
