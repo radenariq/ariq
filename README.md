@@ -1,4 +1,13 @@
-<h1 align="center">Hello, I'm <strong>Ariq</strong> <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="30px" alt="hello gif"/></h1>
+<h1 align="center">
+  <table align="center">
+    <tr>
+      <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9zODFza2o3YnZ4Nmk2NTM0aG12ZWNwOHl5ajQ3b2RzcGJ6cW5jaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aTf4PONtSYB1e/200.gif" width="70px" alt="hello gif"/></td>
+      <td style="vertical-align: middle;">Hello, I'm <strong>Ariq</strong></td>
+      <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9zODFza2o3YnZ4Nmk2NTM0aG12ZWNwOHl5ajQ3b2RzcGJ6cW5jaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aTf4PONtSYB1e/200.gif" width="70px" alt="hello gif"/></td>
+    </tr>
+  </table>
+</h1>
+
 
 
 <p align="center">
