@@ -35,6 +35,7 @@ Hi, I’m Raden Ariq ! I'm a passionate **Data Engineer** with a love for buildi
 - 🌱 I’m currently learning: **Data Engineer,Data Analyst,Data Mining**
 - 💬 Ask me about: **Data Engineer**
 - 📫 How to reach me: ariqresya42@gmail.com
+- 🏁 My hobby is racing 
 
 ---
 ### 🚀 Let's Build the Future Together!
