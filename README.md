@@ -35,9 +35,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radenariq&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radenariq&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -52,9 +52,9 @@
 
 ### 💼 Open Source Contributions:
 
-- [Repository 1](https://github.com/radenariq/MACHINE-LEARNING)
-- [Repository 2](https://github.com/radenariq/PCVK_Ganjil_2024-2025)
-- [Repository 3](https://github.com/radenariq/PEMROGRAMAN_MOBILE_2024-2025)
+- [Machine Learning](https://github.com/radenariq/MACHINE-LEARNING)
+- [PCVK](https://github.com/radenariq/PCVK_Ganjil_2024-2025)
+- [Pemrograman Mobile](https://github.com/radenariq/PEMROGRAMAN_MOBILE_2024-2025)
 
 ---
 
